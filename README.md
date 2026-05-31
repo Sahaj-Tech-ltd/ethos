@@ -384,3 +384,9 @@ Overkill stands on the shoulders of projects that did the hard thinking first.
 - [claude-mem](https://github.com/claude-mem) — memory and personality concepts
 
 Each shaped a specific subsystem; none are vendored.
+
+<!-- CONTRIBUTORS START -->
+| | User | Contributions |
+|---|---|---|
+## Contributors
+<!-- CONTRIBUTORS END -->
